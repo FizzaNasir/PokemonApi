@@ -1,4 +1,4 @@
-import { useGetAllPokemonsQuery } from '../Features/apiSlice';
+import { useGetAllPokemonsQuery } from '../features/apiSlice';
 import { btnStyle } from '../styles'; 
 import { Link } from 'react-router-dom';
 

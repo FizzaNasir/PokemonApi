@@ -1,5 +1,5 @@
 import { useParams } from "react-router-dom";
-import { useGetPokemonByIdQuery} from "../Features/apiSlice";
+import { useGetPokemonByIdQuery} from "../features/apiSlice";
 import * as React from 'react';
 import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
